@@ -6,7 +6,7 @@
 
 🞉 Finishing group project at InfoShare Academy [CookBook](https://github.com/infoshareacademy/jfdzr7-team-devs)
 <br>
-🞉 Developing [Tamaga website project](https://github.com/agatagree/tamaga-website)
+🞉 Developing [tamaga website project](https://github.com/agatagree/tamaga-website)
 <br>
 ◎ Planning soon to dive into: Typescript
 <br>
