@@ -27,12 +27,12 @@
 <br>
 ◪ By education: architect / designer
 <br>
-◩ I'm currently working for biggest fashion company in Poland, creating architectural design systems for its european retail stores
 <br>
+
 
 ##### AFTER HOURS
 
 ◪ Working on sustainable land art installation for [Burning Men on Black Rock Desert in Nevada](https://medium.com/beyond-burning-man/prototyping-with-the-lagi-2020-teams-at-fly-ranch-b131f23f2c5a)
 <br>
-◩ Mountain dreamer, windsurfing beginner, cross-country skier and ceramist freak
+
 
