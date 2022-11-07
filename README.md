@@ -14,7 +14,7 @@
 
 #### TOOLS
 
-◐ Mostly used: JS, REACT, HTML, CSS
+◐ Mostly used: JS, REACT, HTML, CSS ( styled components, SASS, MUI )
 <br>
 ◑ Soft one: Adobe Ai/Ps/Id, FIGMA
 <br>
