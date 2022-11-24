@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a beginner frontend developer living in Gdansk, Poland.
+#### I'm a beginner frontend developer living in, Poland.
 
 #### NOW
 
