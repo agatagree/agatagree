@@ -4,11 +4,11 @@
 
 #### NOW
 
-◉ Finishing group project at InfoShare Academy [CookBook](https://github.com/infoshareacademy/jfdzr7-team-devs)
+◉ Working on Typescript project: [Gora: oil paintings website](https://github.com/agatagree/goraArt) 
 <br>
-◉ Developing [tamaga website project](https://github.com/agatagree/tamaga-website)
+◉ Developing in React [tamaga website project](https://github.com/agatagree/tamaga-website)
 <br>
-◎ Planning soon to dive into: Typescript
+◎ Finishing group project at InfoShare Academy [CookBook](https://github.com/infoshareacademy/jfdzr7-team-devs)
 <br>
 <br>
 
