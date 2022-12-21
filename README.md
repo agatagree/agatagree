@@ -8,13 +8,17 @@
 <br>
 ◉ Developing in React [tamaga website project](https://github.com/agatagree/tamaga-website)
 <br>
-◎ Finishing group project at InfoShare Academy CookBook [/ github](https://github.com/infoshareacademy/jfdzr7-team-devs) [ / demo](https://infoshareacademy.github.io/jfdzr7-team-devs/?fbclid=IwAR2moRIJfiOdi9pUWVL-SqmFEi7Jnl18cY-MA3HzgrPpTWLpUJlroYfqAto)
+<br>
+
+#### LAST PROJECTS
+
+◎ Group project at InfoShare Academy CookBook [/ github](https://github.com/infoshareacademy/jfdzr7-team-devs) [ / demo](https://infoshareacademy.github.io/jfdzr7-team-devs/?fbclid=IwAR2moRIJfiOdi9pUWVL-SqmFEi7Jnl18cY-MA3HzgrPpTWLpUJlroYfqAto)
 <br>
 <br>
 
 #### TOOLS
 
-◐ Mostly used: JS, REACT, HTML, CSS ( styled components, SASS, MUI )
+◐ Mostly used: JS, REACT, HTML, CSS ( styled components, SASS, MUI, CSS Modules )
 <br>
 ◑ Soft one: Adobe Ai/Ps/Id, FIGMA
 <br>
