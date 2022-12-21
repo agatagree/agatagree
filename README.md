@@ -8,7 +8,7 @@
 <br>
 ◉ Developing in React [tamaga website project](https://github.com/agatagree/tamaga-website)
 <br>
-◎ Finishing group project at InfoShare Academy [CookBook](https://github.com/infoshareacademy/jfdzr7-team-devs)
+◎ Finishing group project at InfoShare Academy CookBook [/ github](https://github.com/infoshareacademy/jfdzr7-team-devs) [ / demo](https://infoshareacademy.github.io/jfdzr7-team-devs/?fbclid=IwAR2moRIJfiOdi9pUWVL-SqmFEi7Jnl18cY-MA3HzgrPpTWLpUJlroYfqAto)
 <br>
 <br>
 
