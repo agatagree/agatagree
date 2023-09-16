@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a frontend developer living in, Poland. Right now taking part in [DareIT](https://www.dareit.io/) mentor program 💪 
+#### I'm a frontend developer and designer currently living in, Poland.
 
 #### NOW
 
