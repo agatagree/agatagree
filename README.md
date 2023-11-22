@@ -7,7 +7,7 @@
 ◉ Working on Typescript project: Gora: art gallery website [/ github](https://github.com/agatagree/goraArt) [ / demo](https://gora0-8bdf5.web.app/)
 <br>
 <br>
-◉ Developing in React Tamaga website project [/github](https://github.com/agatagree/tamaga-website)
+◉ Developing in React Tamaga website project [/ github](https://github.com/agatagree/tamaga-website)
 <br>
 <br>
 
