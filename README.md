@@ -4,7 +4,7 @@
 
 #### NOW
 
-◉ Working on react project: CRM for [art gallery webite](https://wgora.com/)
+◉ Working on react project: CRM for [art gallery website](https://wgora.com/)
 <br>
 <br>
 ◉ Developing in react Tamaga website project [/ github](https://github.com/agatagree/tamaga-website)
@@ -18,7 +18,7 @@
 ◎ Working on react project: art gallery website [/ github](https://github.com/agatagree/goraArt) [ / live site](https://wgora.com/)
 <br>
 <br>
-◎ Group project at InfoShare Academy CookBook [/ github](https://github.com/infoshareacademy/jfdzr7-team-devs) [ / demo](https://infoshareacademy.github.io/jfdzr7-team-devs/?fbclid=IwAR2moRIJfiOdi9pUWVL-SqmFEi7Jnl18cY-MA3HzgrPpTWLpUJlroYfqAto)
+◎ Group project at InfoShare Academy CookBook [/ github](https://github.com/infoshareacademy/jfdzr7-team-devs)
 <br>
 <br>
 
