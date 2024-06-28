@@ -4,21 +4,18 @@
 
 #### NOW
 
-◉ Working on react project: CRM for [art gallery website](https://wgora.com/)
+◉ Working on CRM for [art gallery website](https://wgora.com/)  // React
 <br>
 <br>
-◉ Developing in react Tamaga website project [/ github](https://github.com/agatagree/tamaga-website)
-<br>
-<br>
-◉ Design portfolio website for interior design studio in Figma + Webflow
+◉ Developing Tamaga - architecture studio website [/ github](https://github.com/agatagree/tamaga-website) [ / demo](https://tamaga-website.web.app/)  // React
 <br>
 <br>
 
 #### LAST PROJECTS
-◎ Working on react project: art gallery website [/ github](https://github.com/agatagree/goraArt) [ / live site](https://wgora.com/)
+◎ Aart gallery website [/ github](https://github.com/agatagree/goraArt) [ / live site](https://wgora.com/)  // React + Typescript
 <br>
 <br>
-◎ Group project at InfoShare Academy CookBook [/ github](https://github.com/infoshareacademy/jfdzr7-team-devs)
+◎ Group project at InfoShare Academy CookBook [/ github](https://github.com/infoshareacademy/jfdzr7-team-devs)  // React
 <br>
 <br>
 
