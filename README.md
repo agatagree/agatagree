@@ -12,7 +12,7 @@
 <br>
 
 #### LAST PROJECTS
-◎ Aart gallery website [/ github](https://github.com/agatagree/goraArt) [ / live site](https://wgora.com/)  // React + Typescript
+◎ Art gallery website [/ github](https://github.com/agatagree/goraArt) [ / live site](https://wgora.com/)  // React + Typescript
 <br>
 <br>
 ◎ Group project at InfoShare Academy CookBook [/ github](https://github.com/infoshareacademy/jfdzr7-team-devs)  // React
